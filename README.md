@@ -23,3 +23,4 @@ The i-th of these lines contains one integer n (1≤n≤109) — the goal of the
 Output
 For each test case, print one integer — the minimum number of minutes required to get from the point 0 to the point n for the corresponding test case.
 
+[![@pabitra_0's Holopin board](https://holopin.me/pabitra_0)](https://holopin.io/@pabitra_0)
